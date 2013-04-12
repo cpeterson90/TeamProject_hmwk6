@@ -16,6 +16,7 @@ public class FlockingWindow extends JFrame {
 	java.util.ArrayList swarm;
 	
 	public static Image ant = new ImageIcon("FightingAnt.gif").getImage();
+	public static Image wolf = new ImageIcon("wolf.gif").getImage();
 	/**
 	 * Constructor adds a big panel for displaying the flock
 	 * and a smaller panel for controls.
